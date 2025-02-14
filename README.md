@@ -1,0 +1,2 @@
+# LCA
+Latent Class Analysis
